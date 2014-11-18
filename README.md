@@ -1,3 +1,5 @@
+Project closed - Now, You can use this functionallity with @OlegKi plugins https://github.com/OlegKi/jqGrid-plugins
+
 jqgrid-contextmenu-show-hide-columns
 ====================================
 
